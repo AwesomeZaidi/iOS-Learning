@@ -1,16 +1,14 @@
 //
 //  AppDelegate.swift
-//  SizeMeUp
+//  PartyRockApp
 //
-//  Created by Asim Zaidi on 6/19/17.
+//  Created by Asim Zaidi on 6/22/17.
 //  Copyright © 2017 asimzaidi.com. All rights reserved.
 //
 
 import UIKit
 
-
-@UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+@UIApplicationMain class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
